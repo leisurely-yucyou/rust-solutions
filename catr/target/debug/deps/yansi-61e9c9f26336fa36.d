@@ -1,0 +1,12 @@
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libyansi-61e9c9f26336fa36.rmeta: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/windows.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/paint.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/style.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/color.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libyansi-61e9c9f26336fa36.rlib: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/windows.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/paint.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/style.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/color.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/yansi-61e9c9f26336fa36.d: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/windows.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/paint.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/style.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/color.rs
+
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/lib.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/macros.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/windows.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/paint.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/style.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-0.5.1/src/color.rs:

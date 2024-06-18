@@ -1,0 +1,12 @@
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libfloat_cmp-5f1bbaa70f60998c.rmeta: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libfloat_cmp-5f1bbaa70f60998c.rlib: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/float_cmp-5f1bbaa70f60998c.d: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs:

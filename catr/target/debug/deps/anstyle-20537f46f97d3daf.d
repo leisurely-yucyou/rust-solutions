@@ -1,0 +1,12 @@
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libanstyle-20537f46f97d3daf.rmeta: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/libanstyle-20537f46f97d3daf.rlib: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/oagan/study_rust/rust-solutions/catr/target/debug/deps/anstyle-20537f46f97d3daf.d: /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs /home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs
+
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/lib.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/macros.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/color.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/effect.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/reset.rs:
+/home/oagan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.7/src/style.rs:
